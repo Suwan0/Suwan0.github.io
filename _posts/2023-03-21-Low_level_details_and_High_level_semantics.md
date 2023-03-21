@@ -3,7 +3,6 @@ title: "Low level details와 High level semantics"
 date: 2023-03-21 18:51:00 -0400
 categories: jekyll update
 ---
-
 이번 post에서는 Low level details와 High levels semantics의 구분 방법을 알고 각각에 대해서 정리해보자.
 
 ## Low level details와 High level semantics
